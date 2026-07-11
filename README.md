@@ -53,7 +53,7 @@ I'm a Software Engineering student at Manchester Metropolitan University, curren
 
 | Project | Description | Stack |
 |---|---|---|
-| **Note-It** | Shipped personal productivity/note-taking product | — |
+| **Note-It** | Shipped personal productivity/note-taking product | https://note-it.uk/|
 | **MedTranslate Pro** | Shipped product for translating medical information | https://chromewebstore.google.com/detail/medtranslate-pro/khcamebehejobgoioidplcdlgnajaing|
 | **[POS System](https://github.com/Awepandarr/POS_System)** | Point-of-sale system built as a group project | Vue.js |
 | **[Eventitude](https://github.com/Awepandarr/Eventitude)** | Event management platform | Java |
