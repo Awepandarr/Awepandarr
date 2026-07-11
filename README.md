@@ -84,8 +84,12 @@ I'm a Software Engineering student at Manchester Metropolitan University, curren
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Awepandarr&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awepandarr&layout=compact&theme=radical" height="165" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Awepandarr&show_icons=true&theme=radical" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awepandarr&layout=compact&theme=radical" height="165" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
