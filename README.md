@@ -56,9 +56,7 @@ I'm a Software Engineering student at Manchester Metropolitan University, curren
 | **Note-It** | Shipped personal productivity/note-taking product | https://note-it.uk/|
 | **MedTranslate Pro** | Shipped product for translating medical information | https://chromewebstore.google.com/detail/medtranslate-pro/khcamebehejobgoioidplcdlgnajaing|
 | **[POS System](https://github.com/Awepandarr/POS_System)** | Point-of-sale system built as a group project | Vue.js |
-| **[Eventitude](https://github.com/Awepandarr/Eventitude)** | Event management platform | Java |
-| **[SoftwareArchitecture-lab1](https://github.com/Awepandarr/SoftwareArchitecture-lab1)** | Software architecture coursework and lab exercises | Java |
-| **[Lab2Task1](https://github.com/Awepandarr/Lab2Task1)** | Exploring abstract classes vs. interfaces in Java | Java |
+| **[Eventitude](https://eventitude.vercel.app/)** | Event management platform | Java |
 
 *(Add repo links for Note-It and MedTranslate Pro if they're public — recruiters will want to click straight in.)*
 
